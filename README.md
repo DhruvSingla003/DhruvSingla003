@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/TwitterDev">
+Follow @TwitterDev</a>
