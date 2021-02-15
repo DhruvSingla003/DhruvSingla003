@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <a class="twitter-follow-button"
   href="https://twitter.com/DhruvSingla003">
+  data-size="large">
 Follow @DhruvSingla0003</a>
