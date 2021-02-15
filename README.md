@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=DhruvSingla0003&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="DhruvSingla0003,DhruvSingla0003" data-show-count="false">DhruvSingla0003</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=DhruvSingla0003&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="DhruvSingla0003,DhruvSingla0003" data-show-count="false">DhruvSingla0003</a>
+
