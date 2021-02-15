@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/TwitterDev"
-  data-size="large">
-Follow @TwitterDev</a>
+<a href="https://twitter.com/DhruvSingla0003?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DhruvSingla0003</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
