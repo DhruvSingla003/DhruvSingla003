@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Algorithmic Trading  
 - 👯 I’m looking to collaborate on ... AI Learning 
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... [linkedin]: https://www.linkedin.com/in/dhruvsingla/
+- 📫 How to reach me: ... [linkedin]
 - ⚡ Fun fact: ... Bug Raptors fan !!
 
 ### Connect with me:
