@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://webstockreview.net/images/twitter-follow-button-png-8.png)](https://twitter.com/DhruvSingla003) 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<https://help.twitter.com/content/dam/help-twitter/brand/logo.png />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 https://help.twitter.com/content/dam/help-twitter/brand/logo.png
