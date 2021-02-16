@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DhruvSingla003)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DhruvSingla003) 
+<a href="https://twitter.com/intent/tweet?button_hashtag=DhruvSingla0003&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="DhruvSingla0003,DhruvSingla0003" data-show-count="false">Tweet #DhruvSingla0003</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
